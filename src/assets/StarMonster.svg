@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="404px" height="742px" viewBox="0 0 404 742" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Monster1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-524.000000, -68.000000)">
+            <g id="Monster1" transform="translate(524.000000, 69.000000)">
+                <path d="M311,417 L311,608 L310.985576,608 C310.456567,626.315156 295.443198,641 277,641 C258.556802,641 243.543433,626.315156 243.014424,608 L243,608 L243,417 L231,417 L231,686 C231,715.823376 206.823376,740 177,740 C147.176624,740 123,715.823376 123,686 L123,417 L111,417 L111,607 C111,627.434536 94.4345357,644 74,644 C53.5654643,644 37,627.434536 37,607 L37,167 L37,156 L37.3885886,156 C43.2974865,68.8563248 115.857615,0 204.5,0 C293.142376,0 365.702499,68.8563114 371.61141,155.999975 L372,156 L372,161 L372,644 C372,657.254834 361.254834,668 348,668 C334.745166,668 324,657.254834 324,644 L324,417 L311,417 Z" id="Combined-Shape" stroke="#979797" fill="#4DA421"></path>
+                <rect id="Rectangle" stroke="#4DA421" stroke-width="10" fill="#FFFFFF" x="5" y="162" width="394" height="216" rx="108"></rect>
+                <polygon id="Star" stroke="#979797" fill="#000000" points="202 351.531529 148.189082 366.949297 118.841213 338.747433 57.6518313 336.486073 62.0847541 304.454006 12.9441046 285.231484 49.7503967 259.539168 28.2602889 229.458499 85.7542126 218.263064 98.7376039 186.874647 158.665245 193.730564 202 171 245.334755 193.730564 305.262396 186.874647 318.245787 218.263064 375.739711 229.458499 354.249603 259.539168 391.055895 285.231484 341.915246 304.454006 346.348169 336.486073 285.158787 338.747433 255.810918 366.949297"></polygon>
+                <text id="STAR-TIME" fill="#D8D8D8" font-family="Futura-Medium, Futura" font-size="60" font-weight="400" line-spacing="60" letter-spacing="20">
+                    <tspan x="97" y="268">STAR</tspan>
+                    <tspan x="99.3144531" y="328">TIME</tspan>
+                </text>
+                <ellipse id="Oval" fill="#000000" cx="149" cy="98" rx="25" ry="28"></ellipse>
+                <ellipse id="Oval-Copy-4" fill="#000000" cx="245" cy="98" rx="25" ry="28"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
