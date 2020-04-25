@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="512px" height="742px" viewBox="0 0 512 742" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>Monster1</title>
+    <title>SpiralMonster</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-839.000000, -72.000000)">
-            <g id="Monster1" transform="translate(839.000000, 73.000000)">
-                <path d="M366,417 L366,608 L365.985576,608 C365.456567,626.315156 350.443198,641 332,641 C313.556802,641 298.543433,626.315156 298.014424,608 L298,608 L298,417 L286,417 L286,686 C286,715.823376 261.823376,740 232,740 C202.176624,740 178,715.823376 178,686 L178,417 L166,417 L166,607 C166,627.434536 149.434536,644 129,644 C108.565464,644 92,627.434536 92,607 L92,167 L92,156 L92.3885886,156 C98.2974865,68.8563248 170.857615,0 259.5,0 C348.142376,0 420.702499,68.8563114 426.61141,155.999975 L427,156 L427,161 L427,644 C427,657.254834 416.254834,668 403,668 C389.745166,668 379,657.254834 379,644 L379,417 L366,417 Z" id="Combined-Shape" stroke="#979797" fill="#6236FF"></path>
-                <g id="Group-2" transform="translate(0.000000, 126.000000)">
+        <g id="Artboard" transform="translate(-726.000000, -69.000000)">
+            <g id="SpiralMonster" transform="translate(726.000000, 70.000000)">
+                <path d="M366,417 L366,608 L365.985576,608 C365.456567,626.315156 350.443198,641 332,641 C313.556802,641 298.543433,626.315156 298.014424,608 L298,608 L298,417 L286,417 L286,686 C286,715.823376 261.823376,740 232,740 C202.176624,740 178,715.823376 178,686 L178,417 L166,417 L166,607 C166,627.434536 149.434536,644 129,644 C108.565464,644 92,627.434536 92,607 L92,167 L92,156 L92.3885886,156 C98.2974865,68.8563248 170.857615,0 259.5,0 C348.142376,0 420.702499,68.8563114 426.61141,155.999975 L427,156 L427,161 L427,644 C427,657.254834 416.254834,668 403,668 C389.745166,668 379,657.254834 379,644 L379,417 L366,417 Z" id="Body" stroke="#979797" fill="#6236FF"></path>
+                <g id="Mouth" transform="translate(0.000000, 126.000000)">
                     <rect id="Rectangle" stroke="#6236FF" stroke-width="10" fill="#FFFFFF" x="5" y="5" width="502" height="298" rx="113"></rect>
                     <polygon id="Star" stroke="#979797" fill="#000000" points="257 265.522879 188.820721 286.491044 151.636511 248.136509 74.108603 245.06106 79.7251859 201.497448 17.4632111 175.354818 64.0973613 140.413269 36.8690571 99.5035582 109.714762 84.2777668 126.164922 41.5895195 202.094184 50.9135667 257 20 311.905816 50.9135667 387.835078 41.5895195 404.285238 84.2777668 477.130943 99.5035582 449.902639 140.413269 496.536789 175.354818 434.274814 201.497448 439.891397 245.06106 362.363489 248.136509 325.179279 286.491044"></polygon>
+                    <text id="SPIRAL-LATERAL-ART" fill="#D8D8D8" font-family="Futura-Medium, Futura" font-size="60" font-weight="400" line-spacing="60" letter-spacing="20">
+                        <tspan x="109.418945" y="134">SPIRAL </tspan>
+                        <tspan x="75" y="194">LATERAL </tspan>
+                        <tspan x="181.049805" y="254">ART</tspan>
+                    </text>
                 </g>
-                <text id="SPIRAL-LATERAL-ART" fill="#D8D8D8" font-family="Futura-Medium, Futura" font-size="60" font-weight="400" line-spacing="60" letter-spacing="20">
-                    <tspan x="109.418945" y="260">SPIRAL </tspan>
-                    <tspan x="75" y="320">LATERAL </tspan>
-                    <tspan x="181.049805" y="380">ART</tspan>
-                </text>
-                <ellipse id="Oval" fill="#000000" cx="204" cy="98" rx="25" ry="28"></ellipse>
-                <ellipse id="Oval-Copy-4" fill="#000000" cx="300" cy="98" rx="25" ry="28"></ellipse>
+                <g id="Eyes" transform="translate(179.000000, 70.000000)" fill="#000000">
+                    <ellipse id="Oval" cx="25" cy="28" rx="25" ry="28"></ellipse>
+                    <ellipse id="Oval-Copy-4" cx="121" cy="28" rx="25" ry="28"></ellipse>
+                </g>
             </g>
         </g>
     </g>
